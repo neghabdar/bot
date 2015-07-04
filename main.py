@@ -9,10 +9,7 @@ import urllib2
 from PIL import Image
 import multipart
 
-# standard app engine imports
-from google.appengine.api import urlfetch
-from google.appengine.ext import ndb
-import webapp2
+
 
 TOKEN = '116156032:AAELzTNaEvt6q1Kno9SyLn2O_tmiYzhaoGI'
 
